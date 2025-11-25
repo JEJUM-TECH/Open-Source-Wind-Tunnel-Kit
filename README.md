@@ -7,7 +7,7 @@
 
 ---
 
-## 📖 Introduction (소개)
+## 📖 Introduction
 The **Open-Source Modular Wind Tunnel Kit** is designed to solve the problem of expensive educational equipment. By utilizing FDM 3D printing, we **drastically reduced the manufacturing cost** compared to commercial kits while maintaining engineering reliability.
 
 This project is perfect for:
@@ -17,7 +17,7 @@ This project is perfect for:
 
 ---
 
-## ✨ Key Features (핵심 특징)
+## ✨ Key Features
 * **🏭 Fully 3D Printable:** All structural parts are designed to be printed on standard FDM printers (PLA/PETG).
 * **🧩 Modular Design:** Easy to assemble/disassemble using pins (`OnePin.ipt`) without glue.
 * **💨 Flow Quality Control:** Includes **Honeycomb** and **Screen** structures to ensure uniform laminar flow.
