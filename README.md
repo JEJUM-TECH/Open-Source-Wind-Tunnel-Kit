@@ -5,6 +5,8 @@
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![Status](https://img.shields.io/badge/Status-Active-success.svg)]()
 
+📧 **Contact:** For any inquiries, please email us at **jejumtech@naver.com**
+
 ---
 
 ## 📖 Introduction
@@ -30,7 +32,7 @@ This project is perfect for:
 
 ```text
 ├── 3D Printed Wind Tunnel Assembly Manual.pdf       
-├── bed_AIO.ipt                                  # Source files (.ipt for Autodesk Inventor)
+├── bed_AIO.ipt                                 # Source files (.ipt for Autodesk Inventor)
 ├── cover_left(honey comb+screen).ipt
 ├── cover_right(honey comb+fan+cover).ipt
 ├── honey comb cover.ipt
